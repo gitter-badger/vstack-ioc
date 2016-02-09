@@ -1,5 +1,7 @@
 # vstack ioc
 
+[![Join the chat at https://gitter.im/vslinko/vstack-ioc](https://badges.gitter.im/vslinko/vstack-ioc.svg)](https://gitter.im/vslinko/vstack-ioc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Inversion of Control container with promises support
 
 [![circleci build](http://img.shields.io/badge/build-passed-brightgreen.svg)](https://circleci.com/gh/vslinko-vstack/vstack-ioc/tree/master)
